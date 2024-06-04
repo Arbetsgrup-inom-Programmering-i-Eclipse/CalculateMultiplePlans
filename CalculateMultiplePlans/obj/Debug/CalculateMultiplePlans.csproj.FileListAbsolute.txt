@@ -1,0 +1,20 @@
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CalculateMultiplePlans\CalculateMultiplePlans\bin\Debug\VMS.TPS.Common.Model.API.dll
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CalculateMultiplePlans\CalculateMultiplePlans\bin\Debug\VMS.TPS.Common.Model.Types.dll
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CalculateMultiplePlans\CalculateMultiplePlans\obj\Debug\CalculateMultiplePlans.csprojAssemblyReference.cache
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CalculateMultiplePlans\CalculateMultiplePlans\obj\Debug\CalculateMultiplePlans.MainWindow.resources
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CalculateMultiplePlans\CalculateMultiplePlans\obj\Debug\CalculateMultiplePlans.csproj.GenerateResource.cache
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CalculateMultiplePlans\CalculateMultiplePlans\obj\Debug\CalculateMultiplePlans.csproj.CoreCompileInputs.cache
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CalculateMultiplePlans\CalculateMultiplePlans\obj\Debug\CalculateMultiplePlans.csproj.CopyComplete
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CalculateMultiplePlans\CalculateMultiplePlans\bin\Debug\CalculateMultiplePlans.esapi.dll
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CalculateMultiplePlans\CalculateMultiplePlans\bin\Debug\CalculateMultiplePlans.esapi.pdb
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CalculateMultiplePlans\CalculateMultiplePlans\obj\Debug\CalculateMultiplePlans.esapi.dll
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\CalculateMultiplePlans\CalculateMultiplePlans\obj\Debug\CalculateMultiplePlans.esapi.pdb
+H:\02 Programmering\C# scripting\01 Eclipse scripts\CalculateMultiplePlans\CalculateMultiplePlans\obj\Debug\CalculateMultiplePlans.csproj.AssemblyReference.cache
+H:\02 Programmering\C# scripting\01 Eclipse scripts\CalculateMultiplePlans\CalculateMultiplePlans\obj\Debug\CalculateMultiplePlans.MainWindow.resources
+H:\02 Programmering\C# scripting\01 Eclipse scripts\CalculateMultiplePlans\CalculateMultiplePlans\obj\Debug\CalculateMultiplePlans.csproj.GenerateResource.cache
+H:\02 Programmering\C# scripting\01 Eclipse scripts\CalculateMultiplePlans\CalculateMultiplePlans\obj\Debug\CalculateMultiplePlans.csproj.CoreCompileInputs.cache
+H:\02 Programmering\C# scripting\01 Eclipse scripts\CalculateMultiplePlans\CalculateMultiplePlans\obj\Debug\CalculateMultiplePlans.esapi.dll
+H:\02 Programmering\C# scripting\01 Eclipse scripts\CalculateMultiplePlans\CalculateMultiplePlans\obj\Debug\CalculateMultiplePlans.esapi.pdb
+H:\02 Programmering\C# scripting\01 Eclipse scripts\CalculateMultiplePlans\CalculateMultiplePlans\bin\Debug\CalculateMultiplePlans.esapi.dll
+H:\02 Programmering\C# scripting\01 Eclipse scripts\CalculateMultiplePlans\CalculateMultiplePlans\bin\Debug\CalculateMultiplePlans.esapi.pdb
+H:\02 Programmering\C# scripting\01 Eclipse scripts\CalculateMultiplePlans\CalculateMultiplePlans\obj\Debug\CalculateMultiplePlans.csproj.CopyComplete
